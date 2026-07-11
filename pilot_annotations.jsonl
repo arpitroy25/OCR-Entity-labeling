@@ -1,0 +1,21 @@
+{"id": "signs_0000000", "task": "entity_region_grounding", "entity_name": "AKKANNA MADANNA CAVES", "bbox": [[1539, 1155], [3050, 1155], [3050, 1290], [1539, 1290]], "confidence": 0.9985}
+{"id": "signs_0000001", "task": "entity_region_grounding", "entity_name": "CONVENTION CENTRE", "bbox": [[263, 867], [657, 867], [657, 930], [263, 930]], "confidence": 0.999}
+{"id": "signs_0000002", "task": "entity_region_grounding", "entity_name": "VIDHANA", "bbox": [[1762, 834], [1937, 834], [1937, 879], [1762, 879]], "confidence": 0.9963}
+{"id": "signs_0000003", "task": "entity_region_grounding", "entity_name": "ANANTNAG", "bbox": [[943, 959], [1872, 959], [1872, 1084], [943, 1084]], "confidence": 0.9302}
+{"id": "signs_0000004", "task": "entity_region_grounding", "entity_name": "Lakshminarayan (Gundanna)", "bbox": [[1533, 2342], [2866, 2342], [2866, 2563], [1533, 2563]], "confidence": 0.969}
+{"id": "signs_0000005", "task": "entity_region_grounding", "entity_name": "WB19", "bbox": [[911, 2053], [1064, 2053], [1064, 2096], [911, 2096]], "confidence": 0.9787}
+{"id": "signs_0000006", "task": "entity_region_grounding", "entity_name": "VIDYASAGAR SETU", "bbox": [[1474, 1247], [2051, 1247], [2051, 1325], [1474, 1325]], "confidence": 0.9879}
+{"id": "signs_0000007", "task": "entity_region_grounding", "entity_name": "VIDYASAGAR SETU", "bbox": [[1396, 1369], [1866, 1369], [1866, 1424], [1396, 1424]], "confidence": 0.9662}
+{"id": "signs_0000008", "task": "entity_region_grounding", "entity_name": "STAND", "bbox": [[4638, 950], [5368, 950], [5368, 1110], [4638, 1110]], "confidence": 0.9962}
+{"id": "signs_0000009", "task": "entity_region_grounding", "entity_name": "STAND", "bbox": [[4358, 883], [5085, 883], [5085, 1043], [4358, 1043]], "confidence": 0.8712}
+{"id": "signs_0000010", "task": "entity_region_grounding", "entity_name": "MG_R", "bbox": [[2871, 829], [3699, 829], [3699, 1017], [2871, 1017]], "confidence": 0.8457}
+{"id": "signs_0000011", "task": "entity_region_grounding", "entity_name": "DOMLUR", "bbox": [[67, 122], [154, 137], [149, 162], [62, 147]], "confidence": 0.9971}
+{"id": "signs_0000012", "task": "entity_region_grounding", "entity_name": null, "bbox": null, "confidence": null}
+{"id": "signs_0000013", "task": "entity_region_grounding", "entity_name": "STAND", "bbox": [[3825, 1087], [4507, 1087], [4507, 1226], [3825, 1226]], "confidence": 0.9998}
+{"id": "signs_0000014", "task": "entity_region_grounding", "entity_name": "Howrah", "bbox": [[2415, 1231], [2752, 1160], [2769, 1252], [2433, 1322]], "confidence": 0.7851}
+{"id": "signs_0000015", "task": "entity_region_grounding", "entity_name": "BAZAR", "bbox": [[2021, 1651], [2394, 1561], [2420, 1729], [2046, 1819]], "confidence": 0.9174}
+{"id": "signs_0000016", "task": "entity_region_grounding", "entity_name": "Bhairo Marg", "bbox": [[981, 2364], [1878, 2364], [1878, 2573], [981, 2573]], "confidence": 0.9668}
+{"id": "signs_0000017", "task": "entity_region_grounding", "entity_name": "UNRESERVED TICKET BEYOND 200 Kms. IS", "bbox": [[827, 618], [2360, 618], [2360, 741], [827, 741]], "confidence": 0.9222}
+{"id": "signs_0000018", "task": "entity_region_grounding", "entity_name": "SUB-WAY", "bbox": [[2341, 1022], [3141, 1022], [3141, 1218], [2341, 1218]], "confidence": 0.7115}
+{"id": "signs_0000019", "task": "entity_region_grounding", "entity_name": null, "bbox": null, "confidence": null}
+{"id": "signs_0000020", "task": "entity_region_grounding", "entity_name": "GREEN NABADIGANTA E", "bbox": [[2237, 1077], [2637, 1077], [2637, 1164], [2237, 1164]], "confidence": 0.7564}
