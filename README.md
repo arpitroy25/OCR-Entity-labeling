@@ -53,9 +53,10 @@ Entity-Grounding/
 ├── requirements.txt
 └── README.md
 ```
-## Pipeliine
+## 🔄 Processing Pipeline
 
- Dataset
+```text
+Dataset
    │
    ▼
 Load Image
@@ -77,7 +78,7 @@ Choose Best Entity
    │
    ▼
 Generate JSONL Annotation
-
+```
 ---
 
 ## 📦 Installation
