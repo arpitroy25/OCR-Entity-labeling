@@ -154,19 +154,16 @@ Each image generates one JSON object.
 
 Example:
 
+<img width="4032" height="3024" alt="cave" src="https://github.com/user-attachments/assets/0cbf695e-c0c8-44f9-9ab0-a98f92afcbe9" />
+
+
 ```json
 {
-    "id": "image001",
+    "id": "image0000",
     "task": "entity_region_grounding",
-    "entity_name": "COCA COLA",
-    "bbox": [
-        [41, 62],
-        [410, 62],
-        [410, 131],
-        [41, 131]
-    ],
-    "confidence": 0.9824
-}
+    "AKKANNA MADANNA CAVES", "bbox"
+: [[1539, 1155], [3050, 1155], [3050, 1290], [1539, 1290]],
+ "confidence": 0.9985}
 ```
 
  Fields
