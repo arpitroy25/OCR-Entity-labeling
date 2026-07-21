@@ -53,6 +53,30 @@ Entity-Grounding/
 ├── requirements.txt
 └── README.md
 ```
+## Pipeliine
+
+ Dataset
+   │
+   ▼
+Load Image
+   │
+   ▼
+EasyOCR Detection
+   │
+   ▼
+Extract Text + Bounding Box
+   │
+   ▼
+Confidence Filtering
+   │
+   ▼
+Rank Candidates
+   │
+   ▼
+Choose Best Entity
+   │
+   ▼
+Generate JSONL Annotation
 
 ---
 
@@ -196,12 +220,9 @@ This project can be used for
 - OCR Dataset Generation
 - Entity Region Grounding
 - Vision-Language Model Training
-- Florence-2 Fine-tuning
-- OCR Benchmark Creation
 - Signboard Detection
 - Logo Text Detection
 - Scene Text Recognition
-- Multimodal AI Research
 
 ---
 
