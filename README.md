@@ -161,8 +161,8 @@ Example:
 {
     "id": "image0000",
     "task": "entity_region_grounding",
-    "AKKANNA MADANNA CAVES", "bbox"
-: [[1539, 1155], [3050, 1155], [3050, 1290], [1539, 1290]],
+    "AKKANNA MADANNA CAVES", "bbox":
+[[1539, 1155], [3050, 1155], [3050, 1290], [1539, 1290]],
  "confidence": 0.9985}
 ```
 
